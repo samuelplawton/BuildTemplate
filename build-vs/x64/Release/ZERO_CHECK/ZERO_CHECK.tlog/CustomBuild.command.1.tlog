@@ -1,0 +1,10 @@
+^C:\USERS\SAMUE\DOCUMENTS\BUILDTEMPLATE\BUILD-VS\CMAKEFILES\23D0673C17E37DB59FF69131B8EAFD3D\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/samue/Documents/buildtemplate -BC:/Users/samue/Documents/buildtemplate/build-vs --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/samue/Documents/buildtemplate/build-vs/buildtemplate.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

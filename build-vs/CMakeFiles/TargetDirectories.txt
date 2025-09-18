@@ -1,0 +1,4 @@
+C:/Users/samue/Documents/buildtemplate/build-vs/CMakeFiles/buildtemplate.dir
+C:/Users/samue/Documents/buildtemplate/build-vs/CMakeFiles/buildtemplate_app.dir
+C:/Users/samue/Documents/buildtemplate/build-vs/CMakeFiles/ALL_BUILD.dir
+C:/Users/samue/Documents/buildtemplate/build-vs/CMakeFiles/ZERO_CHECK.dir
