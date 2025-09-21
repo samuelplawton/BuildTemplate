@@ -19,3 +19,5 @@ Thumbs.db
 *.exe
 *.pdb
 *.obj
+.vs/
+src/.vs/
