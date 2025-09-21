@@ -22,3 +22,19 @@ Thumbs.db
 .vs/
 src/.vs/
 ECHO is on.
+.vs/
+src/.vs/
+/.vscode/
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+*.VC.db
+*.VC.opendb
+ipch/
+*.opensdf
+*.sdf
+*.tlog
+/build/
+/build-vs/
+/out/
