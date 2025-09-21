@@ -1,5 +1,5 @@
 #include <iostream>
-#include "Example.hpp"
+#include "Example.cpp"
 
 int main() {
     std::cout << buildtemplate::hello() << std::endl;

@@ -21,3 +21,4 @@ Thumbs.db
 *.obj
 .vs/
 src/.vs/
+ECHO is on.
